@@ -1,0 +1,6 @@
+{
+  "name": "ER - Easy to Reach",
+  "description": "All-in-one delivery aggregator comparing real-time prices and delivery times across Blinkit, Zepto, Swiggy, BigBasket, and JioMart with instant unified checkout.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
